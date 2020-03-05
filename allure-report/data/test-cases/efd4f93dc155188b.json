@@ -1,0 +1,62 @@
+{
+  "uid" : "efd4f93dc155188b",
+  "name" : "test_hello_002",
+  "fullName" : "scripts.test_login.TestLogin#test_hello_002",
+  "historyId" : "ad3902bb6e2da48fbd3c85cc01df225c",
+  "time" : {
+    "start" : 1583390940306,
+    "stop" : 1583390940307,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_login.TestLogin object at 0x0000007DC740D518>\n\n    def test_hello_002(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_login.py:5: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "gengxiang"
+  }, {
+    "name" : "thread",
+    "value" : "6304-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "efd4f93dc155188b.json",
+  "parameterValues" : [ ]
+}

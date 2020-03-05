@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "gengxiang",
+    "children" : [ {
+      "name" : "6304-MainThread",
+      "children" : [ {
+        "name" : "test_hello_001",
+        "uid" : "e5fa1cc6fadc1cb",
+        "parentUid" : "dbe6f5d98493c0d6855cacb71077082f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1583390940299,
+          "stop" : 1583390940300,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_hello_003",
+        "uid" : "7601585f2955c301",
+        "parentUid" : "dbe6f5d98493c0d6855cacb71077082f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1583390940391,
+          "stop" : 1583390940391,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_hello_002",
+        "uid" : "efd4f93dc155188b",
+        "parentUid" : "dbe6f5d98493c0d6855cacb71077082f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1583390940306,
+          "stop" : 1583390940307,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dbe6f5d98493c0d6855cacb71077082f"
+    } ],
+    "uid" : "ac3ecd849cf2e5d51e2d6dc3706905d7"
+  } ]
+}
